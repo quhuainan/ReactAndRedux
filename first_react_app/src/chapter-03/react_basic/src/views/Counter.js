@@ -15,7 +15,6 @@ class Counter extends Component {
         this.onDecrement = this.onDecrement.bind(this);
         this.onChange = this.onChange.bind(this);
         this.getOwnState = this.getOwnState.bind(this);
-
         this.state = this.getOwnState();
     }
     onIncrement() {
