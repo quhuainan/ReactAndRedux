@@ -1,4 +1,4 @@
-import React, { Component, PropTypes } from "react";
+import React, { Component, PropTypes } from "../../../../../../../../Library/Caches/typescript/2.9/node_modules/@types/react";
 
 import store from "../Store.js";
 import * as Actions from "../Actions.js";

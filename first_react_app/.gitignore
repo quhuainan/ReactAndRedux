@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-
+/src/chapter-04/todo/node_modules
 # testing
 /coverage
 

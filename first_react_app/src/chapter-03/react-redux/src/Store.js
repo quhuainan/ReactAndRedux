@@ -1,5 +1,5 @@
 import reducer from './Reducer.js';
-import {createStore} from 'redux'
+import {createStore} from '../../../chapter-04/todo/node_modules/redux'
 const initValues = {
   'First': 0,
   'Second': 10,
